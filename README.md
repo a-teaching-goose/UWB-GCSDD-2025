@@ -12,6 +12,8 @@ Contact pengdu@uw.edu
 ## Class Survey
 https://tinyurl.com/gcsdd-eval-f25
 
+---
+
 ## 0. Compilation: Code → Binary
 
 Unlike Java (compile to bytecode + JVM), C++ compiles directly to native machine code.
