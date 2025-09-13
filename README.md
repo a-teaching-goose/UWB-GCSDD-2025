@@ -5,6 +5,10 @@
 These notes summarize our 2-hour crash course on **C++ concepts vs. Java**. They include explanations, annotated code you can copy-paste, and sample outputs. Use them as a reference when practicing.
 
 ---
+
+## Got question?
+Contact pengdu@uw.edu
+
 ## Class Survey
 https://tinyurl.com/gcsdd-eval-f25
 
