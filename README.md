@@ -6,7 +6,10 @@ These notes summarize our 2-hour crash course on **C++ concepts vs. Java**. They
 
 ---
 
-## Got question?
+## Session recording
+[Video](https://washington.zoom.us/rec/play/sfHTcVjWI0RKddK66Dn4OVYHxtXkwM2mVgNshWN_o7LrCndQaQmFlZ0o3FCoDeOc3HOf9pQnLTqU8GAl.kO7viQ7LynIqxHtL?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fwashington.zoom.us%2Frec%2Fshare%2FORfjYpG7WYhTyTljUTfgdhi3FwzlPFPVkg8HgYwreW1VUhRjen8tSnkeajHATHtT.WBuHSi61QC-6SeBn)
+
+## Got Question?
 Contact pengdu@uw.edu
 
 ## Class Survey
