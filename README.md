@@ -496,6 +496,6 @@ set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
 ---
 
-**End of Notes — Good Luck for your 342 and Happy Coding!**
+**End of Notes — Good luck for your study and happy hoding!**
 
 
